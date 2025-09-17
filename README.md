@@ -9,7 +9,7 @@ It demonstrates data cleaning, transformation, and calculations for financial an
 ## Tools Used
 - Python
 - Pandas
-- SQL Server / Excel (optional)
+- SQL Server
 - Jupyter Notebook
 
 
