@@ -47,8 +47,3 @@ loads it into a relational database (SQL Server), and connects the database to P
 - **Excel** (source data)  
 - **SQL Server** (target database)  
 - **Power BI** (visualization)  
-
--
-
-##Author
-Mark Mulehi
