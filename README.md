@@ -13,6 +13,6 @@ It demonstrates data cleaning, transformation, and calculations for financial an
 - Jupyter Notebook
 
 
-
+## Author
 Mark Mulehi
 
